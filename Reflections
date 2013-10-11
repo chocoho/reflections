@@ -1,0 +1,185 @@
+#Reflections compilations
+
+
+#####
+
+
+#Reflections 131005-131011
+
+--Group Improvements--
+After looking over all the presentations, I made a list of some things
+that both our group and other groups could do better in future projects:
+- explain why we did certain things (ie eliminate data)
+- make sure to mention how many points we took out 
+  (either in code or in visuals)
+- make captions for visuals
+- keep a log of problems, and the steps + tools used to fix it
+- keep a log of resources used
+- keep a log of skills we learned
+
+--Group Comments--
+I also made a short commentary on some of the group projects. Here were
+the groups that stood out to me:
+Group 5: I liked seeing how their graphs evolved, and it was interesting
+to see that people who were kinesthetic learners tended to know more programs.
+Group 10: I liked the word cloud because it was immediately understandable.
+A suggestion I had would be better axes labels, and that their learning
+style graphs should have a 3rd dimension to the points (density), so we 
+could see how many people answered for each point. 
+
+--Other Thoughts--
+I enjoyed working with my group. Everyone is supportive, and when things 
+failed, we all worked together to help each other. It's an encouraging 
+environment, which is helped by the encouraging atmosphere of the class 
+in general. 
+
+
+--Aaron's questions/comments to groups that I will keep in mind--
+1. Reasoning for decisions
+   - WHY did you remove certain data?
+2. Clarity
+   - What does this plot mean? (should add captions for their visuals)
+3. Roadblocks
+   - I liked how you focused on your roadblocks
+   - Can you focus on the PROBLEMS you encountered and the STEPS you took to fix that?
+4. Tools
+   - What TOOLS worked well for getting over roadblocks?
+   - What RESOURCES helped you the most? 
+	- How much did you rely on horizontal groups, github trackers, etc
+   - What were the CS skills that you LEANED ON OTHERS for
+	- troubleshooting
+	- what did you pick up BY YOURSELF?
+5. Collaboration/Reproducibility
+   - BEFORE you started, what were your ideas on collab/reproducibility?
+   - NOW, what are your thoughts?
+
+
+
+#####
+
+
+#Reflections 130926-131004
+
+--Issues--
+This week we began our first homework assignment, and our first role
+assignments. The biggest issue that immediately cropped up in our group
+was finding a suitable meeting date that worked for everyone. 
+Unfortunately, none of us were able to meet in person until Saturday,
+and then someone changed their plans and now we have to meet up last minute
+on Sunday night. This has caused me some degree of anxiety
+because I cannot do my work as the Visualizer until the curator has completed his.
+
+Perhaps for our next group assignments, we can assign groups based on 
+another survey of when people are most free to meet up with each other,
+and those that overlap can be assigned to the same group.
+
+
+--Suggestions--
+It would be useful if the powerpoint slides of the guest lectures could 
+become available, as well as our previous in-class lecture notes. 
+While I have been taking notes during the guest lectures, I find it
+distracting trying to copy down all the lecture slides verbatim while also
+trying to take real notes (which for me include commentary that I have about
+the lecture itself, as well as specific phrases the lecturer uses that 
+helps clarify the images at hand). It's also virtually impossible to understand
+some of what the lecturer is saying without seeing the graphs the lecturer
+was using at the time.
+
+
+--Positives--
+It's great that we finally started the ball rolling with our first project!
+
+
+######
+
+
+#Reflections 130922-130925
+
+I was gone for my sister's wedding starting from Sept 120925, so my 
+reflections will cover mostly just Tuesday's class. We were able to get 
+resources for python learning (the safari textbooks in the UC lib system)
+which I thought was helpful because I did not know about it before. 
+
+In class, I learned a useful command for quitting a program while in the Virtual Box terminal (control z), and then you can still run the program in 
+the backgroun (bg)! I thank my tech lead for this useful tidbit.
+
+I agree that having feedback about reflections would be nice. I am still
+not 100% if my reflections have been submitted, so having a quick confirmation
+either via bspace or github would be nice.
+
+I agree that having a google calendar would be a good idea. 
+
+This week involved guest lecturer speakers, and did wnot involve new 
+installations. I did struggle some more this week dealing with ipython
+in the Virtual Machine, but after talking to some classmates about it,
+I believe everything has been sorted out. 
+
+
+######
+
+
+#Reflections 13/09/14 - 13/09/21
+
+This week involved guest lecturer speakers, and did not involve new 
+installations. I did struggle some more this week dealing with ipython
+in the Virtual Machine, but after talking to some classmates about it,
+I believe everything has been sorted out. 
+
+All the other installations I had completed last week. I look forward to
+using our installed programs this upcoming week!
+
+
+#####
+
+
+#Reflections 13/09/08 - 13/09/13
+--Improvement Suggestions--
+The class this week seemed more disorganized than last week because the lack of
+ homework posts and in-class summaries. The professor did explain in class that 
+ it was because he was busier this week, but it would have been nice to have sent
+ a quick announcement via space telling us about the delay.
+
+--Classroom praises--
+This week we discussed how to improve the classroom dynamics as well as seeing 
+what the strengths of the class were. I liked this because it established 
+further than the instructors cared about creating an effective work environment
+and we were able to create a conversation between the instructors and the groups. 
+
+--Personal Challenges--
+I realized that I did not submit my reflections homework in correctly last week.
+I was confused on how to do a pull request and the purpose of it. I realized 
+that I should have gone to the IRC and asked my fellow classmates for help if 
+I was confused on how to do this. I also realized that I needed to spend more
+time on the github help section.
+
+--Personal Improvements--
+This week, I've begun a journal documenting what we've done in class and what
+I've been doing outside of class. This helps me look back at what we've done
+before in class more easily, and allows me to remember the questions that I've had. 
+
+Questions:
+I'm confused about what we are going to do with ipython, how to check if it
+works for us, and the purpose of all the other programs we have been downloading.
+
+
+#####
+
+
+#Reflections 13/09/01 - 13/09/07
+
+This week involved mostly installing new programs into our computers. I've 
+had experience with most of the programs installed, so there wasn't too much
+of an issue with installation for me. I struggled a little bit with accessing
+the IRC group chats because I have had no experience with that before, and 
+Google was not very helpful. I messed around with some variations of the
+join command until I realized that Adium only needs a "#group_chat_name"
+input to join a chat room. Clearer instructions on that would have been helpful.
+
+I did have a question about the specific set-ups for Virtual Box (such as 
+how big should the hard drive be, did the professors want us to set up the 
+virtual hard drive, etc), but this was eventually answered in class.
+
+The final struggle I had was understanding the concept of forking and pull
+requests. I have been reading github sections on the respective topics to
+make the concepts clearer in my mind. 
+
